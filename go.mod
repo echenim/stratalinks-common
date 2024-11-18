@@ -1,3 +1,3 @@
-module github.com/echenim/stratalinks-utils
+module github.com/echenim/stratalinks-common
 
 go 1.21.3
